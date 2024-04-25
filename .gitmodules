@@ -1,0 +1,3 @@
+[submodule "src/AuctionService"]
+	path = src/AuctionService
+	url = https://github.com/uhnenkovad/Auction.git
